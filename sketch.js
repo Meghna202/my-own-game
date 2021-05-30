@@ -94,6 +94,9 @@ function draw() {
     if(keyDown("r")){
       gameState="play";
     }
+    
+    coins=0;
+    kills=0;
   }
 }
 
