@@ -96,7 +96,7 @@ function draw() {
     }
     
     coins=0;
-    kills=0;
+    kills=0; 
   }
 }
 
